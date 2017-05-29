@@ -1,0 +1,18 @@
+{
+  "name": "atom-file-set",
+  "main": "./lib/atom-file-set",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-file-set:toggle"
+  },
+  "repository": "https://github.com/atom/atom-file-set",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
